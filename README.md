@@ -1,22 +1,30 @@
 # wpf-tictactoe
-"X" or "O", that's the game - don't look at the code, it's crap, really!
 
-</br>
-</br>
+Just a simple tic-tac-toe game made in `C#` with `Windows Presentation Foundation`.  The `X` and `O` are not icons, but [canvas drawings](https://github.com/space-hound/wpf-tictactoe/blob/master/src/GameOfGame/Controls/CustomCell/XODrawer.cs).
 
----
+<hr>
 
- ### code here
-  - [Looking for code?](src/GameOfGame)
-  
-----
+ - [Code Here!](https://github.com/space-hound/wpf-tictactoe/tree/master/src/GameOfGame)
+ - [Pictures Here!](https://github.com/space-hound/wpf-tictactoe/tree/master/prev)
 
- ### pictures here
-  - [Looking for pics?](prev/)
+<hr>
 
-----
+<p align="center">
+	<img src="https://raw.githubusercontent.com/space-hound/wpf-tictactoe/master/prev/tictactoe-prev-1.png" alt="tictactoe menu">
+</p>
 
-</br>
-</br>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/space-hound/wpf-tictactoe/master/prev/tictactoe-prev-3.png" alt="tictactoe game">
+</p>
 
-`June 2018 - Visual Studio Community 2017 - .net 4.5 maybe?...i'm lazy`
+<p align="center">
+	<img src="https://raw.githubusercontent.com/space-hound/wpf-tictactoe/master/prev/tictactoe-prev-4.png" alt="tictactoe winner">
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/space-hound/wpf-tictactoe/master/prev/tictactoe-prev-5.png" alt="tictactoe draw">
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/space-hound/wpf-tictactoe/master/prev/tictactoe-prev-6.gif" alt="tictactoe gif">
+</p>
